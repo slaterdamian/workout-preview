@@ -16,7 +16,7 @@ export default defineConfig({
         theme_color: '#09090b',
         background_color: '#09090b',
         display: 'standalone',
-        start_url: '/',
+        start_url: 'https://slaterdamian.github.io/workout-preview/',
         icons: [
           {
             src: '/icon-192.png',
